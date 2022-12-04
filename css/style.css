@@ -9594,8 +9594,9 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-nav-item.active .rd-nav-link {
-	color: #EF7D30;
+	color: #000f47;
 	background: transparent;
+	/*COLOR DE LAS LETRAS DEL MENU, CUANDO ACTIVE*/
 }
 
 .rd-navbar-static .rd-nav-item.active > .rd-navbar-submenu-toggle {
@@ -11159,7 +11160,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-main-outer, .rd-navbar-corporate.rd-navbar-static.rd-navbar--is-clone .rd-navbar-main-outer {
-	background: #232426;
+	background: #f58221;
 	box-shadow: 0 5px 10px 0px rgba(20, 20, 28, 0.3);
 }
 

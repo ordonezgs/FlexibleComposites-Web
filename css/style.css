@@ -5524,7 +5524,7 @@ html:not(.tablet):not(.mobile) .thumbnail-indigo:hover .thumbnail-indigo-caption
 }
 
 .rights {
-	color: #74757f;
+	color: black;
 }
 
 .footer-minimal .rights {
@@ -11083,7 +11083,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-main-outer {
-	background: #223A8F;
+	background: #000f47;
 	position: absolute;
 	top: 100%;
 	z-index: 10;
